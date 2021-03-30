@@ -23,7 +23,7 @@
   ],
   "homepage": {
     "seo": {
-      "metaTitle": "My personal Strapi blog",
+      "metaTitle": "My personal Strapi blog 2.0",
       "metaDescription": "Discover my SEO friendly blog built with Strapi.",
       "shareImage": null
     },
@@ -136,12 +136,12 @@
     }
   ],
   "global": {
-    "siteName":"Strapi Blog",
-    "defaultSeo":{
-      "metaTitle":"Page",
-      "metaDescription":"A blog made with Strapi",
-      "shareImage":null
+    "siteName": "Strapi Blog",
+    "defaultSeo": {
+      "metaTitle": "Page",
+      "metaDescription": "A blog made with Strapi",
+      "shareImage": null
     },
-    "favicon":null
+    "favicon": null
   }
 }
